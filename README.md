@@ -11,3 +11,15 @@ Example of how to set up a Scala project using Scala CLI.
 ```shell
 scala-cli setup-ide .
 ```
+
+## Running main method
+
+```shell
+scala-cli .
+```
+
+## Running tests
+
+```shell
+scala-cli test .
+```
